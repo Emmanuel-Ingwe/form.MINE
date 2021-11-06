@@ -37,7 +37,7 @@ span {
 .box input[type = text]:hover,
 .box input[type = email]:hover {
 	border: 1px solid aqua;
-	letter-spacing: 6px;
+	letter-spacing: 2px;
 	color: rgb(215, 243, 243);
 	font-weight: 600;
 	width: 250px;
